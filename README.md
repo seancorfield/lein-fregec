@@ -1,3 +1,8 @@
+DEPRECATED
+==========
+
+Moved to https://github.com/Frege/frege-lein-plugin
+
 lein-fregec
 ===========
 
